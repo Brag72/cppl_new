@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (cppl_04_02.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  catch_amalgamated.cpp
+  Source.cpp
+  List.cpp
+  Создание кода...
+LINK : warning LNK4067: неоднозначная точка входа; выбрана "mainCRTStartup"
+  cppl_04_02.vcxproj -> C:\Users\bRaG\Desktop\Домашнее задание С++\Продвинутое программирование\cppl_04\cppl_04_01\x64\Debug\cppl_04_01.exe

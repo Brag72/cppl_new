@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  List.cpp
+  Создание кода...
+LINK : warning LNK4067: неоднозначная точка входа; выбрана "mainCRTStartup"
+  cppl_04_02.vcxproj -> C:\Users\bRaG\Desktop\Домашнее задание С++\Продвинутое программирование\cppl_04\cppl_04_02\x64\Debug\cppl_04_02.exe
