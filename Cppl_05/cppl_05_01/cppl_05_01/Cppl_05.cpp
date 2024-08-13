@@ -2,18 +2,18 @@
 #include <vector>
 
 template <typename T>
-void my_sqrt(T& a)
-{
-     a *= a;
-}
-
-template<>
-void my_sqrt(std::vector<int>& My)
+void my_sqrt(T& My)
 {
     for (int i = 0; i < My.size(); i++)
     {
         My[i] *= My[i];
     }
+}
+
+template<>
+void my_sqrt(int& a)
+{
+    a *= a;
 }
 
 int main()
